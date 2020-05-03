@@ -1,0 +1,24 @@
+C:\Users\Ed\AppData\Local\Temporary Projects\BMI calculator\bin\Debug\BMI calculator.exe
+C:\Users\Ed\AppData\Local\Temporary Projects\BMI calculator\bin\Debug\BMI calculator.pdb
+C:\Users\Ed\AppData\Local\Temporary Projects\BMI calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ed\AppData\Local\Temporary Projects\BMI calculator\obj\Debug\BMI_calculator.BMICalculator.resources
+C:\Users\Ed\AppData\Local\Temporary Projects\BMI calculator\obj\Debug\BMI_calculator.Properties.Resources.resources
+C:\Users\Ed\AppData\Local\Temporary Projects\BMI calculator\obj\Debug\BMI calculator.csproj.GenerateResource.Cache
+C:\Users\Ed\AppData\Local\Temporary Projects\BMI calculator\obj\Debug\BMI calculator.exe
+C:\Users\Ed\AppData\Local\Temporary Projects\BMI calculator\obj\Debug\BMI calculator.pdb
+C:\Users\Ed\Documents\UNI WORK!!\YEAR 2\computer programming\BMI calculator\BMI calculator\obj\Debug\BMI calculator.exe
+C:\Users\Ed\Documents\UNI WORK!!\YEAR 2\computer programming\BMI calculator\BMI calculator\obj\Debug\BMI calculator.pdb
+C:\Users\Ed\Documents\UNI WORK!!\YEAR 2\computer programming\BMI calculator\BMI calculator\bin\Debug\BMI calculator.exe
+C:\Users\Ed\Documents\UNI WORK!!\YEAR 2\computer programming\BMI calculator\BMI calculator\bin\Debug\BMI calculator.pdb
+C:\Users\Ed\Documents\UNI WORK!!\YEAR 2\computer programming\BMI calculator\BMI calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ed\Documents\UNI WORK!!\YEAR 2\computer programming\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.BMICalculator.resources
+C:\Users\Ed\Documents\UNI WORK!!\YEAR 2\computer programming\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.Properties.Resources.resources
+C:\Users\Ed\Documents\UNI WORK!!\YEAR 2\computer programming\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csproj.GenerateResource.Cache
+C:\Users\edwar_000\Documents\UNI WORK!!\YEAR 2\computer programming\cw1\BMI calculator\BMI calculator\obj\Debug\BMI calculator.exe
+C:\Users\edwar_000\Documents\UNI WORK!!\YEAR 2\computer programming\cw1\BMI calculator\BMI calculator\obj\Debug\BMI calculator.pdb
+C:\Users\edwar_000\Documents\UNI WORK!!\YEAR 2\computer programming\cw1\BMI calculator\BMI calculator\bin\Debug\BMI calculator.exe
+C:\Users\edwar_000\Documents\UNI WORK!!\YEAR 2\computer programming\cw1\BMI calculator\BMI calculator\bin\Debug\BMI calculator.pdb
+C:\Users\edwar_000\Documents\UNI WORK!!\YEAR 2\computer programming\cw1\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csprojResolveAssemblyReference.cache
+C:\Users\edwar_000\Documents\UNI WORK!!\YEAR 2\computer programming\cw1\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.BMICalculator.resources
+C:\Users\edwar_000\Documents\UNI WORK!!\YEAR 2\computer programming\cw1\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.Properties.Resources.resources
+C:\Users\edwar_000\Documents\UNI WORK!!\YEAR 2\computer programming\cw1\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csproj.GenerateResource.Cache
